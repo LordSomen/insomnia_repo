@@ -1,0 +1,29 @@
+_id: req_a6e351d9f9634392b908d08393e3b2ce
+type: Request
+parentId: wrk_8dbc00099a424a66b03c0632e8594844
+modified: 1645621342011
+created: 1645621168582
+url: asdfhgfdfsdfsdasdfasdhh
+name: new request
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_a604bc4471204a49a39140521a2b1094
+authentication: {}
+metaSortKey: -1623841309453.5
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

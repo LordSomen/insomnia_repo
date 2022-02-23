@@ -1,0 +1,29 @@
+_id: req_5616a7c8c57e48199f43627746864bbf
+type: Request
+parentId: wrk_8dbc00099a424a66b03c0632e8594844
+modified: 1645620611700
+created: 1623841474579
+url: dfadfasf
+name: My Request
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_a604bc4471204a49a39140521a2b1094
+authentication: {}
+metaSortKey: -1623841474579
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
