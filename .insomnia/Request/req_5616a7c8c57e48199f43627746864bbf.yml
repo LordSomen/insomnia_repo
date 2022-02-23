@@ -1,7 +1,7 @@
 _id: req_5616a7c8c57e48199f43627746864bbf
 type: Request
 parentId: wrk_8dbc00099a424a66b03c0632e8594844
-modified: 1645620611700
+modified: 1645623387090
 created: 1623841474579
 url: dfadfasf
 name: My Request
@@ -11,7 +11,7 @@ body:
   mimeType: application/json
   text: |-
     {
-    	
+    	"data":"my req"
     }
 parameters: []
 headers:
